@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="P2shootQR" size="200.000000 200.000000" />
+    <ImageTarget name="P2posQR" size="200.000000 200.000000" />
+    <ImageTarget name="P1shootQR" size="200.000000 200.000000" />
+    <ImageTarget name="P1posQR" size="200.000000 200.000000" />
+    <ImageTarget name="planeQR" size="200.000000 200.000000" />
+  </Tracking>
+</QCARConfig>
